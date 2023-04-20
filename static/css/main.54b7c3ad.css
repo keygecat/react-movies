@@ -1,0 +1,2 @@
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:#faebd7;font-family:Open Sans,sans-serif;margin:0}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}.content{min-height:calc(100vh - 134px)}.movies{grid-gap:1rem;display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}label:not(:last-child){margin-right:1rem}input{text-indent:15px}.card{background-color:#fff7ed}
+/*# sourceMappingURL=main.54b7c3ad.css.map*/
